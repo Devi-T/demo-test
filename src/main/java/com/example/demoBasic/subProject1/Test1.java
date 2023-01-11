@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class Test1 {
 	
 	public void method1() {
-		System.out.println("Test1 component");
+		System.out.println("Test1 component from master");
 	}
 
 }
